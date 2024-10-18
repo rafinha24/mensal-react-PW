@@ -95,20 +95,20 @@ const App = () => {
               </thead>
               <tbody>
                 <tr>
-                  <td>Amanda</td>
-                  <td>amanda@gmail.com</td>
+                  <td>Ana</td>
+                  <td>ana@gmail.com</td>
                 </tr>
                 <tr>
-                  <td>Bruno</td>
-                  <td>bruno@gmail.com</td>
+                  <td>Bernardo</td>
+                  <td>bernardo@gmail.com</td>
                 </tr>
                 <tr>
-                  <td>Caio</td>
-                  <td>caio@gmail.com</td>
+                  <td>Clara</td>
+                  <td>clara@gmail.com</td>
                 </tr>
                 <tr>
-                  <td>Eduarda</td>
-                  <td>duda@gmail.com</td>
+                  <td>Edinaldo</td>
+                  <td>edinaldo@gmail.com</td>
                 </tr>
               </tbody>
             </table>
